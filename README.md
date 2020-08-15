@@ -1,7 +1,7 @@
 # FFVM_dataset
 **The dataset used by FFVM contains MIDI files and pre-processed npy files**
 
-MIDI files are mainly piano versions of popular music. Every piece of midi can be recognized and appreciated by the public.
+MIDI files are mainly piano versions of popular music. Every piece of midi can be recognized and appreciated by everyone.
 
 **The following datasets are for reference**
 - [MIDI Dataset](https://composing.ai/dataset)
