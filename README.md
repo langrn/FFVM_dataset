@@ -12,4 +12,5 @@ MIDI files are mainly piano versions of popular music. Every piece of midi can b
 ![image](https://github.com/langrn/FFVM_dataset/blob/master/images/length.png)
 
 The main melody is extracted, noise removal is carried out, and stored as npy file.
+ 
 notes_data.npy is processed from the entire dataset, while notes_data_flat.npy is processed from melodies with little change in pitch in the dataset.
